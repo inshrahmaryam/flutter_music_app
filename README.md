@@ -1,6 +1,8 @@
-# music_app
+# Musio 🎵
 
-A new Flutter project.
+A Flutter music app that plays your downloaded tracks. Just hit play and let the music take over. 🎧💥
+
+---
 
 ## Getting Started
 
