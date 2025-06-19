@@ -1,0 +1,1 @@
+{"inputs":["D:\\music_app\\web\\*\\index.html","D:\\music_app\\web\\flutter_bootstrap.js","D:\\flutter_3.7.2\\flutter\\bin\\cache\\engine.stamp"],"outputs":["D:\\music_app\\build\\web\\*\\index.html","D:\\music_app\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"}]"}
